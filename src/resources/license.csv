@@ -1,0 +1,42 @@
+libraryName,libraryVersion,mavenLibraryName,licenseName,licenseUrl
+Apache Commons,3.1,org.apache.commons:commons-lang3:jar:3.1:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Joda Time,2.1,joda-time:joda-time:jar:2.1:compile,Apache License Version 2.0.,http://joda-time.sourceforge.net/license.html
+Jackson,1.9,org.codehaus.jackson:jackson-core-asl:jar:1.9.11:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Guava,11.0.2,com.google.guava:guava:jar:11.0.2:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+JavaFX,2.2,com.oracle:javafx:jar:2.2:compile,JavaSE Usage,kein Lizenztext
+Slf4j,1.6.6,org.slf4j:slf4j-api:jar:1.6.6:compile,MIT Licence,http://www.slf4j.org/license.html
+JavaFx OnSecreen,0.9.8,org.comtel.javafx:fx-onscreen-keyboard:jar:0.9.8:compile,New BSD License,http://opensource.org/licenses/BSD-3-Clause
+Kryo,2.19, com.esotericsoftware.kryo:kryo:jar:2.19:compile,New BSD License,http://opensource.org/licenses/BSD-3-Clause
+PDFBox,1.6.0,org.apache.pdfbox:pdfbox:jar:1.6.0:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Eclipselink,2.4.0,org.eclipse.persistence:eclipselink:jar:2.4.0:compile,Eclipse Public License,http://www.eclipse.org/legal/epl-v10.html
+Log4j,1.6.6,org.slf4j:slf4j-log4j12:jar:1.6.6:compile,MIT Licence,https://logging.apache.org/log4j/1.2/license.html
+Dozer,5.3.2,net.sf.dozer:dozer:jar:5.3.2:compile,Apache License Version 2.0.,http://dozer.sourceforge.net/license.html
+Jdom,1.1.3,org.jdom:jdom:jar:1.1.3:compile,Apache Style Licence,https://www.apache.org/licenses/LICENSE-2.0
+Commons-IO,2.4,commons-io:commons-io:jar:2.4:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+Commens-Codes,1.7,commons-codec:commons-codec:jar:1.7:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+GSON,2.2.1,com.google.code.gson:gson:jar:2.2.1:compile,Apache License Version 2.0.,https://code.google.com/p/google-gson/source/browse/trunk/gson/LICENSE?r=369
+Weld-Se-Core,1.1.9,org.jboss.weld.se:weld-se-core:jar:1.1.9.Final:compile,Apache License Version 2.0,https://www.apache.org/licenses/LICENSE-2.0.html
+Jackson-Mapper-Asl,1.9.11,org.codehaus.jackson:jackson-mapper-asl:jar:1.9.11:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Jersey-Client,1.13,com.sun.jersey:jersey-client:jar:1.13:compile,CDDL 1.1 and GPL 2 with CPE,https://jersey.java.net/license.html
+JIRA-Rest-Java-Client,0.6,com.atlassian.jira:jira-rest-java-client:jar:0.6-m5:compile,Part of JIRA source distribution,kein Lizenztext
+Jettison,1.3.2,org.codehaus.jettison:jettison:jar:1.3.2:compile,Apache License Version 2.0.,http://jettison.codehaus.org/License
+Jersey-Json,1.13,com.sun.jersey:jersey-json:jar:1.13:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Jersey-Apache-Client,1.13,com.sun.jersey.contribs:jersey-apache-client:jar:1.13:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Commons-HTTPClient,3.1,commons-httpclient:commons-httpclient:jar:3.1:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Jersey-Servlet,1.13,com.sun.jersey:jersey-servlet:jar:1.13:compile,Apache License Version 2.0.,https://www.apache.org/licenses/LICENSE-2.0
+Weld-Servlet,1.1.9,org.jboss.weld.servlet:weld-servlet:jar:1.1.9.Final:compile,LGPL,https://www.gnu.org/licenses/lgpl.html
+Apache Commons-Validator,1.4.0,org.apache.commons:commons-validator:jar:1.4.0:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+Fxtras,2.2-r4,org.jfxtras:fxtras-labs:jar:2.2-r4:compile,BSD 2,https://en.wikipedia.org/wiki/BSD_licenses
+Apache Xalan,2.7.1,org.apache.xml.xalan:xalan:jar:2.7.1:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+Apache Tomcat-Catalina,7.037,org.apache.tomcat:tomcat-catalina:jar:7.0.37:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+Jersey-Server,1.13,com.sun.jersey:jersey-server:jar:1.13,CDDL 1.1 and GPL 2 with CPE,https://jersey.java.net/license.html
+Jersey-OAuth,1.13,com.sun.jersey.contribs:jersey-oauth:jar:1.13,CDDL 1.1 and GPL 2 with CPE,https://jersey.java.net/license.html
+Apache Derby,10.9.1,org.apache.derby:derby:jar10.9.1.0:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+MySQL-Connector,5.1.21,mysql-connector-java:jar:5.1.21:compile,The GNU General Public License Version 2,https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+PostgreSQL,9.1-901-1,postgresql:jar:9.1-901-1.jdbc4:compile,BSD License,http://jdbc.postgresql.org/license.html
+Jaxrpc-Api,1.1,javax.xml:jaxrpc-api:jar:1.1:compile,CDDL-1.0,http://opensource.org/licenses/cddl1.php
+Apache Commons-Doscovery,0.2,org.apache.commons:commons-discovery:jar:0.2:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+Springsource WSDL,1.6.1,com.springsource:javax.wsdl:jar:1.6.1:compile,keine Lizenz,kein Lizenztext
+Microsoft TFS,1.0,com.microsoft.tfs,TFS Licensing,kein Lizenztext
+Apache Axis,1.4,org.apache.axis:axis:jar:1.4:compile,Apache License Version 2.0.,https://www.apache.org/licenses/
+Super-CSV,2.1.0,Maven-Super-CSV,Apache License Version 2.0,http://supercsv.sourceforge.net/license.html

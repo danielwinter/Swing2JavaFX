@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+
+<GridPane fx:controller="de.saxsys.swing2javafx.javafx.fxml.TestFXMLController" xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+	<padding><Insets top="25" right="25" bottom="10" left="25"/></padding>
+	
+	<Text text="Willkommen bei FXML" 
+        GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+  
+    <TextField fx:id="pathField"
+        GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+  
+    <TextField fx:id="sizeField" 
+        GridPane.columnIndex="0" GridPane.rowIndex="2"/>    
+       
+    <ImageView fx:id="imageView" GridPane.columnIndex="0" GridPane.rowIndex="3"/>
+    
+</GridPane>
